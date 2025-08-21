@@ -1,6 +1,5 @@
-**Olá!!! Meu nome é Carolina Prevedi :-)**
+**Olá, sou a Carolina Prevedi :-)**
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo
 - 💻 Atualmente aprendendo: Python
 - ✉️ Contate-me no email: prevedicarolina@outlook.com
 
@@ -31,9 +30,4 @@
 
 <div style="display: inline_block"><br>
   <img align="right" alt="carol-snoopy" src="https://www.icegif.com/wp-content/uploads/2024/02/icegif-426.gif" />
-</div>
-
-
-<div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/carolina-prevedi-130a0437a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
