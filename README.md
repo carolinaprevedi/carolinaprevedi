@@ -1,4 +1,4 @@
-**Olá, sou a Carolina Prevedi :-)**
+**Olá, meu nome é Carolina Prevedi :-)**
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Atualmente aprendendo: Python
